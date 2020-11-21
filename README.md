@@ -11,6 +11,10 @@ Or use the quick links below:
 		* JAR, English version, 240×320: [Download](https://bit.ly/ae1-jar)
 	* **Ancient Empires 2**
 		* JAR, English version, 240×320: [Download](https://bit.ly/ae2-jar)
+	* **Ancient Empires 2 RM**
+		* JAR, version 2.5, English, 240×320: [Download](https://bit.ly/ae2rm-25-jar)
+		* JAR, version 2.4, English, 240×320: [Download](https://bit.ly/ae2rm-24en-jar)
+		* JAR, version 2.4, Russian, 240×320: [Download](https://bit.ly/ae2rm-24ru-jar)
 * **Android version (for smartphones)**
 	* **Ancient Empires (Ancient Empires 1)**
 		* Free version: [Google Play](https://bitly.com/ae1-google-play), [APK direct download](https://bitly.com/ae1-apk)
